@@ -2,6 +2,8 @@
 
 <div style="text-align:center"><img src=https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you/blob/master/images/logo2.png?raw=true /></div>
 
+
+
 # Contents
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;**[🧐Task Description](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#task-description-1)**
@@ -14,7 +16,11 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;**[👩‍👦‍👦Who Are We?](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#who-are-we-1)**
 
+
+
 # Task Description
+
+
 
 ### Subject
 
@@ -25,6 +31,8 @@
 
 
 일반적 문장과 달리 수식은 분수의 분자·분모, 극한의 구간 표현 등 다차원적 관계 파악이 필요합니다. 따라서 수식인식 문제는 일반적인 single line recognition 기반의 OCR이 아닌 multi line recognition을 이용하는 OCR 문제로 바라볼 수 있습니다. Multi line recognition의 관점에서 수식 인식은 기존 OCR과 차별화되는 task라고 할 수 있습니다.
+
+
 
 ### Data
 
@@ -71,6 +79,8 @@ git clone https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you.git
 pip install -r requirments.txt
 ```
 
+
+
 ### Dataset Structure
 
 ```shell
@@ -82,6 +92,8 @@ pip install -r requirments.txt
     ├── ...     
     └── *.jpg
 ```
+
+
 
 ### Code Structure
 
@@ -100,6 +112,8 @@ pip install -r requirments.txt
 ├── train.py
 └── inference.py
 ```
+
+
 
 
 
@@ -130,6 +144,8 @@ $ python train.py --train_type distillation --config_file './configs/LiteSATRN.y
 ```shell
 $ python train.py --train_type single_opt --project_name <PROJECTNAME> --exp_name <EXPNAME> --config_file './configs/EfficientSATRN.yaml'
 ```
+
+
 
 #### Arguments
 
@@ -165,6 +181,8 @@ $ python inference.py --inference_type single --checkpoint <MODELPATH.pth>
 ```shell
 $ python inference.py --inference_type ensemble --checkpoint <MODEL1PATH.pth> <MODEL2PATH.pth> ...
 ```
+
+#### 
 
 #### Arguments
 
@@ -203,6 +221,8 @@ $ python inference.py --inference_type ensemble --checkpoint <MODEL1PATH.pth> <M
 ##### `file_path (str)`: 추론할 데이터 경로
 
 ##### `output_dir (str)`: 추론 결과를 저장할 디렉토리 경로 (default: `'./result/'`)
+
+
 
 
 
