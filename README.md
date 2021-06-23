@@ -6,15 +6,17 @@
 
 # Contents
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;**[🧐Task Description](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#task-description-1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[🧐Task Description](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#task-description-1)**
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;**[🏆Project Result](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#project-result-1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[🏆Project Result](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#project-result-1)**
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;**[⚙Installation](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#installation-1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[⚙Installation](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#installation-1)**
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;**[🕹Command Line Interface](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#command-line-interface-1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[🕹Command Line Interface](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#command-line-interface-1)**
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;**[👩‍👦‍👦Who Are We?](https://github.com/iloveslowfood/p4-fr-sorry-math-but-love-you#who-are-we-1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[🤝Collaboration Tools](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#collaboration-tools-1)**
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;**[👩‍👦‍👦Who Are We?](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you#who-are-we-1)**
 
 
 
@@ -223,15 +225,71 @@ $ python inference.py --inference_type ensemble --checkpoint <MODEL1PATH.pth> <M
 ##### `output_dir (str)`: 추론 결과를 저장할 디렉토리 경로 (default: `'./result/'`)
 
 
+# Collaboration Tools
+<table>
+    <tr height="200px">
+        <td align="center" width="350px">	
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/issues?q=is%3Aissue+is%3Aclosed"><img height="180px" width="320px" src="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/blob/master/images/issue.gif?raw=true"/></a>
+            <br />
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/issues?q=is%3Aissue+is%3Aclosed">Github Issues</a>
+        </td>
+        <td align="center" width="350px">	
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/discussions"><img height="180px" width="320px" src="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/blob/master/images/discussion.gif?raw=true"/></a>
+            <br />
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/discussions">Github Discussions</a>
+        </td>
+    </tr>
+    <tr height="200px">
+        <td align="center" width="350px">	
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/pulls?q=is%3Apr+is%3Aclosed"><img height="180px" width="320px" src="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/blob/master/images/pr.gif?raw=true"/></a>
+            <br />
+            <a href="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/pulls?q=is%3Apr+is%3Aclosed">Github Pull Requests</a>
+        </td>
+        <td align="center" width="350px">	
+            <a href="https://wandb.ai/smbly"><img height="180px" width="320px" src="https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you/blob/master/images/wandb.gif?raw=true"/></a>
+            <br />
+            <a href="https://wandb.ai/smbly">Experiments Logging(W&B)</a>
+        </td>
+    </tr>
+</table>
 
 
 
 # Who Are We?
 
-- 고지형
-- 김준철
-- 김형민
-- 송누리
-- 이주영
-- 최준구
-
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">	
+            <a href="https://github.com/iloveslowfood"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48649606?v=4"/></a>
+            <br />
+            <a href="https://github.com/iloveslowfood">고지형<br />silkstaff@naver.com</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/ahaampo5"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60084351?v=4"/></a>
+            <br />
+            <a href="https://github.com/ahaampo5">김준철<br />ahaampo5@gmail.com</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/doritos0812"><img height="100px" width="100px" src="https://raw.githubusercontent.com/doritos0812/p4-fr-sorry-math-but-love-you/master/KakaoTalk_Image_2021-06-20-17-25-08.jpeg"/></a>
+            <br />
+            <a href="https://github.com/doritos0812">김형민<br />doritos2498@gmail.com</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/nureesong"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76163168?v=4"/></a>
+            <br />
+            <a href="https://github.com/nureesong">송누리<br />nuri3136@naver.com</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Lala-chick"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76460750?v=4"/></a>
+            <br />
+            <a href="https://github.com/Lala-chick">이주영<br />vvvic313@gmail.com</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/soupbab"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/67000572?v=4"/></a>
+            <br />
+            <a href="https://github.com/soupbab">최준구<br />jungu1106@naver.com</a>
+        </td>
+    </tr>
+</table>
