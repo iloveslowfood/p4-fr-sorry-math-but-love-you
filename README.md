@@ -78,7 +78,7 @@
 git clone https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you.git
 
 # install necessary tools
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 
